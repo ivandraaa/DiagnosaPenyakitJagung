@@ -1,4 +1,4 @@
-github = https://github.com/ivandraaa/DiagnosaPenyakitJagung
+github = https://github.com/ivandraaa/DiagnosaPenyakitbrokoli
 
 copy file env.example kemudian ubah namanya menjadi .env
 

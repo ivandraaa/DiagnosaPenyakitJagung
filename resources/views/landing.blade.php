@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Dr.Brokoli Bootstrap Template - Index</title>
+  <title>Dr.brokoli Bootstrap Template - Index</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -60,7 +60,7 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-      {{-- <h1 class="logo me-auto"><a href="index.html">Dr Brokoli</a></h1> --}}
+      {{-- <h1 class="logo me-auto"><a href="index.html">Dr brokoli</a></h1> --}}
       <img class="logo me-auto" src="landing/img/logo-dr-brokoli.png" alt="Logo" style="width: 215px; height: 55px;">
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
@@ -91,8 +91,8 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
     <div class="container">
-      <h1>Selamat Datang di Dr. Brokoli</h1>
-      <h2>Kami Siap Mengatasi Permasalahan Tanaman Brokolimu</h2>
+      <h1>Selamat Datang di Dr. brokoli</h1>
+      <h2>Kami Siap Mengatasi Permasalahan Tanaman brokolimu</h2>
       <a href="/form-faq" class="btn-get-started scrollto">Isi Form</a>
     </div>
   </section><!-- End Hero -->
@@ -106,9 +106,9 @@
         <div class="row">
           <div class="col-lg-4 d-flex align-items-stretch">
             <div class="content">
-              <h3>Mengapa Harus Dr. Brokoli?</h3>
+              <h3>Mengapa Harus Dr. brokoli?</h3>
               <p>
-                Karena DR.BROKOLI adalah aplikasi yang membantu para petani dalam mendiagnosis
+                Karena DR.brokoli adalah aplikasi yang membantu para petani dalam mendiagnosis
                 kesehatan tanaman brokoli dengan menggunakan sistem pakar. Kami percaya bahwa dengan mengetahui kondisi
                 tanaman Anda, Anda dapat mengambil langkah-langkah yang tepat untuk merawatnya dengan baik.
               </p>
@@ -229,20 +229,20 @@
         <div class="faq-list">
           <ul>
             <li data-aos="fade-up">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">Apa itu DR.BROKOLI? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">Apa itu DR.brokoli? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
                 <p>
-                    DR.BROKOLI adalah aplikasi sistem pakar yang dirancang untuk membantu petani 
+                    DR.brokoli adalah aplikasi sistem pakar yang dirancang untuk membantu petani 
                     dalam mendiagnosis dan merawat kesehatan tanaman brokoli.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="100">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">Bagaimana DR.BROKOLI dapat membantu dalam mendiagnosis kesehatan tanaman brokoli? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">Bagaimana DR.brokoli dapat membantu dalam mendiagnosis kesehatan tanaman brokoli? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                    DR.BROKOLI menggunakan kecerdasan buatan dan sistem pakar untuk menganalisis data
+                    DR.brokoli menggunakan kecerdasan buatan dan sistem pakar untuk menganalisis data
                     yang Anda berikan tentang tanaman brokoli Anda. Berdasarkan informasi tersebut, 
                     aplikasi akan memberikan diagnosis dan rekomendasi untuk merawat tanaman brokoli secara efektif.
                 </p>
@@ -250,10 +250,10 @@
             </li>
 
             <li data-aos="fade-up" data-aos-delay="200">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">Apakah aplikasi DR.BROKOLI dapat memberikan informasi lebih lanjut mengenai perawatan tanaman brokoli? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">Apakah aplikasi DR.brokoli dapat memberikan informasi lebih lanjut mengenai perawatan tanaman brokoli? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                    Ya, selain memberikan diagnosis dan rekomendasi, aplikasi DR.BROKOLI juga menyediakan informasi 
+                    Ya, selain memberikan diagnosis dan rekomendasi, aplikasi DR.brokoli juga menyediakan informasi 
                     dan sumber daya berguna mengenai perawatan tanaman brokoli. Anda dapat menemukan panduan, tips, 
                     dan praktik terbaik untuk merawat tanaman brokoli dengan baik.
                 </p>
@@ -261,10 +261,10 @@
             </li>
 
             <li data-aos="fade-up" data-aos-delay="300">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">Bagaimana jika saya memiliki pertanyaan atau masalah yang tidak tercakup di DR.BROKOLI? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">Bagaimana jika saya memiliki pertanyaan atau masalah yang tidak tercakup di DR.brokoli? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                    Jika Anda memiliki pertanyaan atau masalah yang tidak tercakup di DR.BROKOLI, silakan hubungi tim kami 
+                    Jika Anda memiliki pertanyaan atau masalah yang tidak tercakup di DR.brokoli, silakan hubungi tim kami 
                     melalui halaman "Kontak Kami" di website kami. Kami akan dengan senang hati membantu 
                     Anda dengan pertanyaan atau masalah yang Anda hadapi.
                 </p>
@@ -286,7 +286,7 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Dr.Brokoli</h3>
+            <h3>Dr.brokoli</h3>
             <p>
               Jl. Ir. Soepomo No 24 <br>
               Surakarta, SOC 535022<br>
@@ -334,7 +334,7 @@
 
       <div class="me-md-auto text-center text-md-start">
         <div class="copyright">
-          &copy; Copyright <strong><span>Dr.Brokoli</span></strong>. All Rights Reserved
+          &copy; Copyright <strong><span>Dr.brokoli</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
           <!-- All the links in the footer should remain intact. -->

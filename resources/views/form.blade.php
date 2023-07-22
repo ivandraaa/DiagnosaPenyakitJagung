@@ -47,7 +47,7 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
 		rel="stylesheet" />
 	<link media="print" href="penyakit-assets/wp-content/cache/autoptimize/css/autoptimize_5653ccbbff2bf3fde17022871919df8b.css"
 		rel="stylesheet" />
-	<title>Diagnosis Penyakit Tumbuhan Brokoli</title>
+	<title>Diagnosis Penyakit Tumbuhan brokoli</title>
 	<meta name="description"
 		content="Take our depression test if you are feeling overwhelming sadness—it&#039;s free, quick, confidential, and scientifically validated." />
 	<link rel="canonical" href="index.html" />
@@ -672,7 +672,7 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
 						<ul id="main-menu" class="sf-menu">
 							<li id="menu-item-406"
 								class="heading left-col menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-406">
-								<a href="#">Diagnosis Penyakit Tumbuhan Brokoli</a>
+								<a href="#">Diagnosis Penyakit Tumbuhan brokoli</a>
 								<ul class="sub-menu">
 									<li id="menu-item-16362"
 										class="wide bold menu-item menu-item-type-post_type menu-item-object-page menu-item-16362">
@@ -702,7 +702,7 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
 				<div class="wrap normal">
 					<!-- <div class="bubble round-tl mobile-wide mint"><div class="inner"><h1>Take a Mental Health Test</h1><div class="text"><p>Online screening is one of the quickest and easiest ways to determine whether you are experiencing symptoms of a mental health condition.</p><p><strong>Mental health conditions, such as depression or anxiety, are real, common and treatable. And recovery is possible.</strong></p></div></div></div> -->
 					<div class="page-heading plain">
-						<h1 class="entry-title">Diagnosis Penyakit Tumbuhan Brokoli</h1>
+						<h1 class="entry-title">Diagnosis Penyakit Tumbuhan brokoli</h1>
 					</div>
 				</div>
 				<div class="wrap medium">
@@ -710,7 +710,7 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
 						<div class='gf_browser_safari gform_wrapper gform_legacy_markup_wrapper' id='gform_wrapper_1'
 							style='display:none'>
 							<div class='gform_heading'>
-								<h3 class="gform_title">Tes Penyakit Tumbuhan Brokoli</h3> <span class='gform_description'></span>
+								<h3 class="gform_title">Tes Penyakit Tumbuhan brokoli</h3> <span class='gform_description'></span>
 							</div>
 							<form method='post' enctype='multipart/form-data' id='gform_1' action="{{ route('spk.store') }}" novalidate>
 								@csrf
