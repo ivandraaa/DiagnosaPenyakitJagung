@@ -1,4 +1,4 @@
-github = https://github.com/Andrian17/sistem-pakar.git
+github = https://github.com/ivandraaa/DiagnosaPenyakitJagung
 
 copy file env.example kemudian ubah namanya menjadi .env
 
@@ -6,12 +6,11 @@ buka file .env setting database nya
 
 Pada terminal / CMD jalankan perintah dibawah
 
-php artisan key:generate
 npm install
 composer install
+php artisan key:generate
 php artisan migrate:fresh --seed
 php artisan serve
-
 
 Untuk Login
 email : admin@example.com
