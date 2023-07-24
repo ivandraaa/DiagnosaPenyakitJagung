@@ -621,16 +621,19 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
 			<div class="wrap normal"> <a id="logo" href="/"><img
 						src="penyakit-assets/wp-content/themes/mha_s2s/assets/images/mha-logo.png" alt="MHA Screening" /></a>
 				<div id="utility-menu" class="utility-menu relative">
-					<div id="search-header"> <button id="search-toggle" aria-expanded="false"
+					<div id="search-header"> 
+						{{-- <button id="search-toggle" aria-expanded="false"
 							aria-controls="search-form" data-href="/search/"> <strong
-								class="screen-reader-text">Search</strong> <span class="icon"></span> </button>
+								class="screen-reader-text">Search</strong> <span class="icon"></span> 
+						</button> --}}
 						<form role="search" method="get" class="search-form"
 							action="https://screening.mhanational.org/"> <label for="mha-search-form"> <span
 									class="screen-reader-text">Search</span> <input type="search" id="mha-search-form"
 									class="search-field" placeholder="Search" value="" name="s" /> </label> <input
 								type="submit" class="search-submit" value="SEARCH SITE" /></form>
-					</div> <span id="sign-in-container"> <button id="sign-in-toggle" class="button" aria-haspopup="true"
-							aria-expanded="false" aria-controls="sign-in-container"> <strong>Log In</strong> </button>
+					</div> <span id="sign-in-container"> 
+						{{-- <button id="sign-in-toggle" class="button" aria-haspopup="true"
+							aria-expanded="false" aria-controls="sign-in-container"> <strong>Log In</strong> </button> --}}
 						<div id="sign-in-hover" aria-controls="sign-in-toggle" aria-label="Toggle Sign In Form">
 							<div class="bubble round-tr bubble-border narrow dark light-blue">
 								<div class="inner clearfix">
@@ -727,8 +730,8 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
 												<li id="field_1_4"
 													class="gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_above gfield_visibility_visible"
 													data-js-reload="field_1_4">
-													<p><strong>Dalam beberapa hari terakhir</strong>, tanda-tanda apa yang mulai muncul di tanaman brokoli Anda?</p>
-													<p>Tidak semua field harus diisi, jadi pastikan untuk memberikan jawaban yang tepat sesuai dengan kondisi tanaman brokoli Anda.</p>
+													<p><strong>Dalam beberapa hari terakhir</strong>, tanda-tanda apa yang mulai muncul di tanaman jagung Anda?</p>
+													<p>Tidak semua pertanyaan harus diisi, jadi pastikan untuk memberikan jawaban yang tepat sesuai dengan kondisi tanaman jagung Anda.</p>
 												</li>
 												<li id="field_1_38"
 													class="gfield gform_hidden field_sublabel_below field_description_above gfield_visibility_visible"
