@@ -164,7 +164,17 @@
 
                 <div class="section-title">
                     <h2>Tentang Kami</h2>
-                    <p>Profile Kelompok 12 Tugas Project Expert System</p>
+                    <p>Jaga Jagung Giriroto adalah sebuah website yang didedikasikan untuk para petani jagung dengan
+                        tujuan membantu mereka dalam mengelola dan menjaga tanaman jagung mereka. Melalui platform ini,
+                        para petani dapat memantau pertumbuhan tanaman, mengidentifikasi penyakit dan hama yang mungkin
+                        mempengaruhi tanaman jagung, serta mendapatkan rekomendasi perawatan yang tepat. Website ini
+                        juga menyediakan pengingat untuk tindakan perawatan penting, seperti penyiraman dan pemupukan.
+                        Dengan data cuaca terintegrasi, para petani juga dapat merencanakan kegiatan pertanian mereka
+                        secara lebih efektif. Selain itu, Jaga Jagung Giriroto juga menyediakan fitur analisis data yang
+                        memberikan wawasan berharga tentang tren pertanian dan teknik terbaik berdasarkan data dari
+                        berbagai petani dan lokasi. Dengan layanan yang andal dan aman, Jaga Jagung Giriroto menjadi
+                        alat yang sangat berguna bagi petani jagung untuk meningkatkan hasil panen dan efisiensi
+                        pertanian secara keseluruhan.</p>
                 </div>
 
                 <div class="row">
