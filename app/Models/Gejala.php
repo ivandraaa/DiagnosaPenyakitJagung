@@ -22,106 +22,104 @@ class Gejala extends Model
         $gejala2 = [
             [
                 "kode_gejala" => "G001",
-                "gejala" => "Nodul atau kelenjar yang tidak teratur terbentuk pada akar"
+                "gejala" => "terdapat bercak kecil berbentuk oval pada daun jagung"
             ],
             [
                 "kode_gejala" => "G002",
-                "gejala" => "Ada pembengkakan pada akar"
+                "gejala" => "terdapat bercak memanjang dan berbentuk ellips"
             ],
             [
                 "kode_gejala" => "G003",
-                "gejala" => "Terjadi pemanjangan akar"
+                "gejala" => "terdapat bercak berwarna hijau keabu-abuan atau coklat"
             ],
             [
                 "kode_gejala" => "G004",
-                "gejala" => "Pertumbuhan tanaman kerdil"
+                "gejala" => "bercak memiliki panjang 2.5-15cm "
             ],
             [
                 "kode_gejala" => "G005",
-                "gejala" => "Daun tanaman layu dan mati"
+                "gejala" => "bercak pertama muncul pada daun yang terbawah dan kemudian berkembang menuju daun bagian atas"
             ],
             [
                 "kode_gejala" => "G006",
-                "gejala" => "Bintik kuning berbentuk V di sepanjang tepi daun ke arah tengah daun"
+                "gejala" => "munculnya bercak berwarna agak kemerahan pada pelepah atau bagian pangkal tanaman"
             ],
             [
                 "kode_gejala" => "G007",
-                "gejala" => "Terdapat bintik hitam pada daun"
+                "gejala" => "bercak kemerahan tersebut kemudian berubah menjadi abu-abu seiring berkembangnya penyakit"
             ],
             [
                 "kode_gejala" => "G008",
-                "gejala" => "Daunnya busuk dan berwarna hitam"
+                "gejala" => "bercak meluas dan pembentukan sklerotium yang memiliki bentuk tidak beraturan"
             ],
             [
                 "kode_gejala" => "G009",
-                "gejala" => "Semua daun menguning"
+                "gejala" => "penyebaran bercak dari bagian bawah ke atas pelepah"
             ],
             [
                 "kode_gejala" => "G010",
-                "gejala" => "Cairan bakteri muncul pada bagian yang terkena infeksi"
+                "gejala" => "terdapat serangan pada varietas rentan yang menyerang pucuk tanaman atau tongkol pelepah"
             ],
             [
                 "kode_gejala" => "G011",
-                "gejala" => "Jaringan di antara pembuluh darah menguning dan kemudian berubah menjadi coklat keunguan"
+                "gejala" => "terdapat permukaan daun berwarna putih dengan garis-garis klorotik"
             ],
             [
                 "kode_gejala" => "G012",
-                "gejala" => "Bintik hitam dan garis-garis muncul pada batang di bawah bunga kepala"
+                "gejala" => "pada pagi hari di sisi bawah daun jagung terdapat lapisan beledu putih yang terdiri dari konidiofor dan konidium jamur"
             ],
             [
                 "kode_gejala" => "G013",
-                "gejala" => "Kepala bunga berubah menjadi cokelat"
+                "gejala" => "penyakit ini menyerang tanaman jagung dalam 1-2 minggu setelah infeksi awal"
             ],
             [
                 "kode_gejala" => "G014",
-                "gejala" => "Bagian bawah daun terdapat jamur berwarna putih seperti tepung"
+                "gejala" => "terdapat warna kuning yang memanjang sejajar tulang daun dengan batas yang jelas antara daun sehat dan terinfeksi"
             ],
             [
                 "kode_gejala" => "G015",
-                "gejala" => "Tekstur daun seperti kertas"
+                "gejala" => "tanaman jagung mengalami kerdil, daun menggulung, dan bunga jantan berubah menjadi massa daun berlebihan"
             ],
             [
                 "kode_gejala" => "G016",
-                "gejala" => "Bintik-bintik kecil, berwarna gelap"
+                "gejala" => "bercak-bercak kecil berbentuk bulat sampai oval pada permukaan daun jagung bagian atas dan bawah"
             ],
             [
                 "kode_gejala" => "G017",
-                "gejala" => "Bintik-bintik membesar, kemudian menjadi melingkar dengan diameter 1mm"
+                "gejala" => "penyakit menyebar melalui angin dan menginfeksi tanaman jagung lain"
             ],
             [
                 "kode_gejala" => "G018",
-                "gejala" => "Terdapat berbentuk cincin"
+                "gejala" => "penyakit terjadi pada dataran rendah hingga tinggi dan berkembang baik pada musim penghujan atau kemarau"
             ],
             [
                 "kode_gejala" => "G019",
-                "gejala" => "Benih mengerut dan perkecambahan yang buruk terjadi."
+                "gejala" => "penyebarannya melalui spora yang terbawa angin dan dapat menjangkiti tanaman jagung di sekitarnya"
             ],
             [
                 "kode_gejala" => "G020",
-                "gejala" => "Bercak linear juga muncul pada tangkai daun, batang, polong, dan biji"
+                "gejala" => "terdapat bercak noda kuning kemerahan pada daun, mirip dengan warna besi yang berkarat"
             ],
             [
                 "kode_gejala" => "G021",
-                "gejala" => "Bintik-bintik putih yang mengkilap terbentuk di permukaan bawah daun, batang, dan bunga."
+                "gejala" => "terdapat luka nekrotik kecil berwarna coklat dengan lingkaran kuning klorosis di daun bagian bawah"
             ],
             [
                 "kode_gejala" => "G022",
-                "gejala" => "Bintik-bintik tersebut bergabung membentuk pola yang tidak teratur."
+                "gejala" => "terdapat luka memanjang berbentuk persegi empat yang sejajar dengan urat daun"
             ],
             [
                 "kode_gejala" => "G023",
-                "gejala" => "Lapisan epidermis pecah dan menunjukkan massa spora putih yang membuat bintik tersebut tampak seperti serbuk."
+                "gejala" => "terdapat bercak daun berwarna hijau kekuningan atau cokelat kemerahan"
             ],
             [
                 "kode_gejala" => "G024",
-                "gejala" => "Distorsi pada bagian-bagian bunga akibat pertumbuhan jaringan berlebih."
+                "gejala" => "bibit jagung yang terkena menjadi layu atau mati dalam 3-4 minggu"
             ],
             [
                 "kode_gejala" => "G025",
-                "gejala" => "Tanaman mengalami kelainan bentuk."
-            ],
-            
-            
+                "gejala" => "terdapat penularan melalui angin atau percikan air hujan yang menyebabkan infeksi pertama pada tanaman jagung"
+            ],           
         ];
 
         return $gejala2;
