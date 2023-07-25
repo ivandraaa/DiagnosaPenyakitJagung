@@ -47,7 +47,7 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
 		rel="stylesheet" />
 	<link media="print" href="penyakit-assets/wp-content/cache/autoptimize/css/autoptimize_5653ccbbff2bf3fde17022871919df8b.css"
 		rel="stylesheet" />
-	<title>Diagnosis Penyakit Tumbuhan brokoli</title>
+	<title>Diagnosis Penyakit Tumbuhan Jagung</title>
 	<meta name="description"
 		content="Take our depression test if you are feeling overwhelming sadness—it&#039;s free, quick, confidential, and scientifically validated." />
 	<link rel="canonical" href="index.html" />
@@ -703,9 +703,9 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
 		<main id="content" class="site-content">
 			<article id="post-22" class="post-22 screen type-screen status-publish hentry condition-depression">
 				<div class="wrap normal">
-					<!-- <div class="bubble round-tl mobile-wide mint"><div class="inner"><h1>Take a Mental Health Test</h1><div class="text"><p>Online screening is one of the quickest and easiest ways to determine whether you are experiencing symptoms of a mental health condition.</p><p><strong>Mental health conditions, such as depression or anxiety, are real, common and treatable. And recovery is possible.</strong></p></div></div></div> -->
+					{{-- <!-- <div class="bubble round-tl mobile-wide mint"><div class="inner"><h1>Take a Mental Health Test</h1><div class="text"><p>Online screening is one of the quickest and easiest ways to determine whether you are experiencing symptoms of a mental health condition.</p><p><strong>Mental health conditions, such as depression or anxiety, are real, common and treatable. And recovery is possible.</strong></p></div></div></div> --> --}}
 					<div class="page-heading plain">
-						<h1 class="entry-title">Diagnosis Penyakit Tumbuhan brokoli</h1>
+						<h1 class="entry-title">Diagnosis Penyakit Tumbuhan Jagung</h1>
 					</div>
 				</div>
 				<div class="wrap medium">

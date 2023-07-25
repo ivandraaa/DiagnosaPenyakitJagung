@@ -14,11 +14,6 @@ class Gejala extends Model
 
     public function fillTable()
     {
-
-// 1-4 = CLub Root
-// 5-9 = Black Root
-// 9-14 = Downy Mildew
-
         $gejala2 = [
             [
                 "kode_gejala" => "G001",

@@ -17,23 +17,23 @@ class TingkatPenyakit extends Model
         $penyakit = [
             [
                 "kode_penyakit" => "P001",
-                "penyakit" => "Club Rot"
+                "penyakit" => "Hawar Daun"
             ],
             [
                 "kode_penyakit" => "P002",
-                "penyakit" => "Black Rot"
+                "penyakit" => "Busuk Pelepah"
             ],
             [
                 "kode_penyakit" => "P003",
-                "penyakit" => "Downy Mildew"
+                "penyakit" => "Bulai"
             ],
             [
                 "kode_penyakit" => "P004",
-                "penyakit" => "Leaf Spot"
+                "penyakit" => "Karat Daun"
             ],
             [
                 "kode_penyakit" => "P005",
-                "penyakit" => "White Rust"
+                "penyakit" => "Bercak Daun"
             ],
         ];
         return $penyakit;

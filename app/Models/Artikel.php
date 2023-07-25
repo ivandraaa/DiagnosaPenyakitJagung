@@ -20,80 +20,51 @@ class Artikel extends Model
         $artikel = [
             [
                 "kode_penyakit" => "P001",
-                "url_gambar" => 'https://pnwhandbooks.org/sites/pnwhandbooks/files/plant/images/broccoli-brassica-oleracea-clubroot/clubroot.jpg',
-                "judul" => 'Club Rot',
-                "isi" => 'Penyakit tumbuhan brokoli yang dikenal sebagai club rot adalah suatu penyakit yang disebabkan oleh infeksi jamur Sclerotinia sclerotiorum. Penyakit ini dapat menyerang berbagai jenis tanaman, termasuk brokoli. Club rot biasanya mempengaruhi batang, akar, dan daun brokoli, menyebabkan kerusakan yang signifikan pada tanaman. Gejala utama club rot pada brokoli termasuk penurunan pertumbuhan, busuk pada pangkal batang, dan daun-daun yang layu. Ketika batang brokoli terinfeksi, akan terbentuk jaringan busuk yang lembek dan berwarna coklat. Daun-daun yang terinfeksi juga bisa menunjukkan tanda-tanda busuk dengan area berwarna coklat atau putih keabu-abuan yang meluas. Pada tahap infeksi yang lebih lanjut, sklerotia dapat terlihat pada jaringan yang terinfeksi. Pencegahan dan pengendalian club rot pada brokoli melibatkan beberapa langkah. Berikut adalah beberapa tindakan yang dapat diambil:
+                "url_gambar" => 'https://i0.wp.com/www.kampustani.com/wp-content/uploads/2022/03/penyakit-pada-tanaman-jagung-5.jpg?resize=2480%2C1267&ssl=1',
+                "judul" => 'Hawar Daun',
+                "isi" => 'Penyakit hawar daun adalah suatu penyakit tanaman pada jagung yang disebabkan oleh infeksi cendawan patogen yang bernama Bipolaris maydis (sebelumnya dikenal sebagai Helminthosporium maydis). Gejala awal terinfeksi adalah munculnya bercak-bercak kecil berbentuk oval pada daun tanaman jagung. Kemudian, bercak tersebut akan memanjang dan berbentuk ellips, dan akhirnya berkembang menjadi nekrotik yang disebut hawar. Nekrosis ini biasanya berwarna hijau keabu-abuan atau coklat. Penyakit hawar daun dapat menyebabkan kerusakan serius pada tanaman jagung, terutama jika infeksi berat terjadi. Bercak-barcak hawar akan berkembang dari daun yang terbawah menuju daun bagian atas, dan jika tidak dikendalikan dengan baik, tanaman jagung dapat cepat mati atau mengering akibat penyakit ini. Pencegahan dan pengendalian hawar daun pada tanaman jagung melibatkan beberapa langkah. Berikut adalah beberapa tindakan yang dapat diambil:
 
-                    Menanam varietas brokoli yang tahan terhadap club rot.
-                    Menghindari luka-luka pada tanaman saat penanaman dan pemeliharaan.
-                    Menerapkan rotasi tanaman untuk menghindari penumpukan sklerotia di tanah.
-                    Mencabut dan memusnahkan tanaman yang terinfeksi untuk mencegah penyebaran penyakit.
-                    Menggunakan metode sanitasi yang baik, seperti membersihkan peralatan pertanian yang terkontaminasi.
-                    Menggunakan fungisida yang direkomendasikan oleh ahli pertanian jika diperlukan.'
+                Pengendalian penyakit ini dapat dilakukan dengan cara memusnahkan seluruh bagian tanaman yang  terserang  sampai  ke akarnya  (Eradikasi  tanaman).  Secara kimiawi menggunakan fungisida dengan bahan aktif mankozeb dan dithiocarbamate. Dosis/konsentrasi sesuai dengan petunjuk pada kemasan.'
             ],
             [
                 "kode_penyakit" => "P002",
-                "url_gambar" => 'https://extension.umn.edu/sites/extension.umn.edu/files/cabbage-black-rot.jpg',
-                "judul" => 'Black Rot',
-                "isi" => 'Penyakit tumbuhan brokoli yang dikenal sebagai black rot adalah suatu penyakit yang disebabkan oleh bakteri bernama Xanthomonas campestris pv. campestris. Penyakit ini dapat menyerang tanaman brokoli dan tanaman keluarga kubis-kubisan lainnya. Black rot dapat menyebabkan kerusakan yang signifikan pada tanaman, terutama pada daun dan kuncup bunga. Gejala utama black rot pada brokoli termasuk munculnya bintik-bintik kecil berwarna kuning pada daun yang kemudian memperluas menjadi lesi berwarna coklat atau hitam dengan tepi yang tegas. Lesi-lesi ini sering memiliki bentuk segitiga dengan ujung mengarah ke arah tulang daun. Daun-daun yang terinfeksi dapat mengering, melengkung, dan akhirnya layu. Jika infeksi berlanjut, lesi dapat menyebar ke batang dan kepala brokoli, menyebabkan busuk dan pembusukan yang lebih lanjut. Pencegahan dan pengendalian black rot pada brokoli melibatkan beberapa langkah. 
+                "url_gambar" => 'https://i0.wp.com/www.kampustani.com/wp-content/uploads/2022/03/penyakit-pada-tanaman-jagung-7.jpg?resize=2386%2C1267&ssl=1',
+                "judul" => 'Busuk Pelepah',
+                "isi" => 'Penyakit busuk pelepah, disebabkan oleh jamur Rhizoctonia solani, merupakan suatu kondisi patogenik yang dapat menyerang berbagai jenis tanaman. Rhizoctonia solani adalah jamur tanah yang menyebabkan pembusukan pada jaringan tanaman, terutama di bagian pelepah atau pangkal tanaman. Penyakit ini dapat menyebabkan kerugian ekonomi yang signifikan dalam pertanian dan hortikultura karena tanaman yang terinfeksi menjadi lemah dan berpotensi mati. Pencegahan dan pengendalian busuk pelepah pada tanaman jagung melibatkan beberapa langkah. 
                 
-                Berikut adalah beberapa tindakan yang dapat diambil:
+                Berikut adalah beberapa tindakan yang dapat diambil adalah:
 
-                    Menanam varietas brokoli yang tahan terhadap black rot.
-                    Memastikan kebersihan di kebun dengan membersihkan sisa-sisa tanaman yang terinfeksi.
-                    Menerapkan rotasi tanaman untuk menghindari penumpukan bakteri di tanah.
-                    Menghindari cedera pada tanaman saat penanaman dan pemeliharaan.
-                    Menghindari penggenangan air dan memastikan drainase yang baik.
-                    Menggunakan metode sanitasi yang baik, seperti membersihkan peralatan pertanian yang terkontaminasi.
-                    Menggunakan fungisida atau bakterisida yang direkomendasikan oleh ahli pertanian jika diperlukan.'
+                Dengan menjaga kelembaban areal pertanaman, yaitu dengan pengaturan jarak tanam tidak terlalu rapat dan pengaturan drainase air agar tidak terjadi genangan. Pergiliran tanaman dengan tanaman bukan sefamili. Pengendalian kimiawi dengan menggunakan fungisida berbahan aktif mankozeb dan karbendazim. Dosis/konsentrasi sesuai dengan petunjuk pada kemasan.'
             ],
             [
                 "kode_penyakit" => "P003",
-                "url_gambar" => 'https://pnwhandbooks.org/sites/pnwhandbooks/files/plant/images/broccoli-brassica-oleracea-downy-mildew-staghead/249.jpg',
-                "judul" => 'Downy Mildew',
-                "isi" => 'Penyakit tumbuhan brokoli yang dikenal sebagai Downy Mildew disebabkan oleh jamur-like oomycete bernama Peronospora parasitica. Penyakit ini dapat menyebabkan kerusakan pada daun dan menyebabkan penurunan pertumbuhan serta hasil panen yang rendah pada tanaman brokoli. Gejala penyakit Downy Mildew pada brokoli biasanya dimulai dengan munculnya bercak-bercak kuning atau kehijauan pada permukaan bawah daun. Bercak-bercak ini berkembang menjadi daerah berbulu yang berwarna keabu-abuan atau ungu pada daun. Bulu-bulu tersebut terdiri dari struktur jamur yang berfungsi untuk menyebar spora penyakit. 
+                "url_gambar" => 'https://i0.wp.com/www.kampustani.com/wp-content/uploads/2022/03/penyakit-pada-tanaman-jagung-4.jpg?resize=2480%2C1267&ssl=1',
+                "judul" => 'Bulai',
+                "isi" => 'Penyakit ini menjadi momok menakutkan di kalangan petani jagung, karena dampaknya yang mengharuskan petani untuk membongkar tanaman jagungnya sebelum dapat panen. Penyakit bulai merupakan penyakit utama pada tanaman jagung yang disebabkan oleh jamur Peronosclerospora Maydis. Perkembangan penyakit ini dimulai dengan infeksi konidia (spora jamur) yang jatuh di permukaan daun jagung. Konidia tersebut kemudian berkembang dan masuk ke dalam jaringan tanaman muda melalui stomata dan selanjutnya berkembang hingga ke titik tumbuh tanaman. Infeksi jamur ini bisa dilihat cukup jelas pada pagi hari antara pukul 04.00-05.30, dimana pada daun yang terinfeksi akan terlihat spora jamur berbentuk butiran berwarna putih. 
                 
-                Pencegahan dan pengendalian penyakit Downy Mildew pada brokoli melibatkan beberapa langkah berikut:
+                Pencegahan dan pengendalian penyakit Bulai pada tanaman jagung yaitu:
 
-                    Menanam varietas brokoli yang tahan terhadap Downy Mildew.
-                    Menghindari kelembaban yang berlebihan dengan memastikan adanya drainase yang baik.
-                    Memberikan ruang yang cukup antara tanaman brokoli untuk meningkatkan sirkulasi udara dan mengurangi kelembaban.
-                    Menghindari penyiraman di malam hari untuk mengurangi kelembaban pada daun.
-                    Memotong dan membuang bagian tanaman yang terinfeksi segera setelah gejalanya terlihat.
-                    Menerapkan rotasi tanaman dan menghindari penanaman berdekatan dengan tanaman keluarga kubis-kubisan lainnya.
-                    Menggunakan fungisida atau oomyceticida yang direkomendasikan oleh ahli pertanian jika diperlukan.'
+                Penanaman jagung secara serempak, pemusnahan seluruh bagian tanaman terserang sampai ke akarnya (Eradikasi  tanaman). Pengendalian kimiawi  dapat dilakukan dengan cara perlakuan  benih  menggunakan fungisida berbahan  aktif metalaksil  dengan  dosis  2 gram (0,7 g bahan aktif) per kg benih. Selain itu penyemprotan tanaman pada umur 5, 10, dan 15 hari menggunakan fungisida berbahan aktif metalaksil, famoksadon, atau benomil. Dosis/konsentrasi sesuai dengan petunjuk pada kemasan.'
             ],
             [
                 "kode_penyakit" => "P004",
-                "url_gambar" => 'https://bpb-us-e1.wpmucdn.com/blogs.cornell.edu/dist/1/7446/files/2018/08/Summer-2013-075-1wuy93u.jpg',
-                "judul" => 'Leaf Spot',
-                "isi" => 'Penyakit tumbuhan brokoli yang dikenal sebagai Leaf Spot (bintik daun) dapat disebabkan oleh berbagai jenis patogen, termasuk jamur, bakteri, atau bahkan virus. Penyakit ini dapat menyebabkan kerusakan pada daun brokoli dan pada tingkat yang lebih parah dapat mengurangi hasil panen. Gejala Leaf Spot pada brokoli umumnya berupa bintik-bintik berwarna coklat, hitam, atau keabu-abuan yang muncul pada daun tanaman. Bintik-bintik ini dapat bervariasi ukuran dan bentuknya. Pada kasus yang parah, bintik-bintik tersebut dapat bergabung dan menyebabkan nekrosis (kematian jaringan) pada daun. Selain itu, daun-daun yang terinfeksi Leaf Spot juga dapat menguning, mengering, dan akhirnya gugur. 
+                "url_gambar" => 'https://i0.wp.com/www.kampustani.com/wp-content/uploads/2022/03/penyakit-pada-tanaman-jagung-2.jpg?resize=2480%2C1267&ssl=1',
+                "judul" => 'Karat Daun',
+                "isi" => 'Penyakit karat daun pada jagung berpotensi  mengganggu kestabilan produksi jagung. Penyakit ini disebabkan oleh cendawan Puccinia polysora dan Puccinia sorghil. Penyakit karat ini termasuk endemis dan seringkali menjadi  penyebab utama  rendahnya produksi jagung. Oleh karena itu sifat ketahanan terhadap penyakit karat daun menjadi salah satu persyaratan untuk membudidayakan tanaman ini. Penyakit ini menginfeksi jagung pada fase pertumbuhan generatif hingga masa panen terutama  pada daun tanaman. Jika tingkat serangannya berat maka infeksi  mencapai seludang daun dan tongkol. Kehilangan hasil akibat penyakit ini antara 45% hingga 70% tergantung intensitas serangan dan dukungan faktor cuaca ekstrim. 
                 
-                Untuk mengendalikan penyakit Leaf Spot pada brokoli, beberapa langkah pencegahan dan pengendalian yang dapat dilakukan antara lain:
+                Untuk mengendalikan penyakit Karat Daun pada tanaman jagung, beberapa langkah pencegahan dan pengendalian yang dapat dilakukan antara lain:
 
-                    Memilih varietas brokoli yang tahan terhadap Leaf Spot jika tersedia.
-                    Memastikan kebersihan di kebun dengan membersihkan sisa-sisa tanaman yang terinfeksi.
-                    Memberikan ruang yang cukup antara tanaman untuk meningkatkan sirkulasi udara dan mengurangi kelembaban.
-                    Menghindari penyiraman di malam hari untuk mengurangi kelembaban pada daun.
-                    Menghindari cedera pada daun saat penanganan atau pemeliharaan tanaman.
-                    Menggunakan metode sanitasi yang baik, seperti membersihkan peralatan pertanian yang terkontaminasi.
-                    Menggunakan fungisida, bakterisida, atau pengendali penyakit lainnya yang direkomendasikan oleh ahli pertanian jika diperlukan.'
+                Dengan cara pemusnahan seluruh bagian tanaman terserang sampai ke  akarnya (Eradikasi tanaman). Pengendalian  kimiawi dapat dilakukan dengan aplikasi fungisida berbahan aktif benomil, metil tiofanat,    karbendazim, atau difenokonazole dengan dosis/konsentrasi sesuai dengan petunjuk pada kemasan.'
             ],
             [
                 "kode_penyakit" => "P005",
-                "url_gambar" => 'https://www.greenlife.co.ke/wp-content/uploads/2022/04/white_rust.jpg',
-                "judul" => 'White Rust',
-                "isi" => 'Penyakit tumbuhan brokoli yang dikenal sebagai White Rust (karat putih) disebabkan oleh jamur bernama Albugo candida. Penyakit ini dapat menyebabkan kerusakan pada daun dan organ reproduksi tanaman brokoli. White Rust seringkali menjadi masalah serius pada tanaman brokoli di daerah yang lembap dengan suhu yang sejuk. Gejala utama White Rust pada brokoli adalah adanya bercak-bercak putih atau kekuningan pada daun dan organ reproduksi, seperti bunga dan kuncup bunga. Bercak-bercak ini dapat tumbuh dan menyebabkan permukaan daun menjadi berlapisan putih, seperti serbuk atau kapur. Infeksi yang berat dapat menyebabkan daun menjadi keriting, kering, dan akhirnya gugur. Pada organ reproduksi, White Rust dapat menghambat pertumbuhan bunga dan mengurangi hasil panen. 
+                "url_gambar" => 'https://i0.wp.com/www.kampustani.com/wp-content/uploads/2022/03/penyakit-pada-tanaman-jagung-3.jpg?resize=2480%2C1267&ssl=1',
+                "judul" => 'Bercak Daun',
+                "isi" => 'Penyakit Bercak Daun adalah penyakit yang menyerang tanaman jagung dan disebabkan oleh jamur Bipolaris maydis. Penyakit ini ditandai dengan adanya bercak pada daun tanaman jagung yang berukuran bervariasi, dari kecil hingga lebih besar, dengan warna awal yang cenderung hijau atau klorotik dan kemudian berubah menjadi coklat kemerahan. Terdapat dua tipe bercak daun, yaitu ras O dan T, dengan ras T memiliki tingkat bahaya yang lebih tinggi dan dapat menyebabkan kerusakan serius pada tanaman jagung, bahkan menyebabkan tanaman layu dan mati. Bercak daun ini dapat menyebabkan penurunan hasil panen. 
                 
-                Untuk mengendalikan penyakit White Rust pada brokoli, beberapa langkah pencegahan dan pengendalian yang dapat dilakukan antara lain:
+                Untuk mengendalikan penyakit Bercak Daun pada brokoli, beberapa langkah pencegahan dan pengendalian yang dapat dilakukan antara lain:
 
-                    Menanam varietas brokoli yang tahan terhadap White Rust jika tersedia.
-                    Memberikan ruang yang cukup antara tanaman untuk meningkatkan sirkulasi udara dan mengurangi kelembaban.
-                    Menghindari penyiraman di malam hari untuk mengurangi kelembaban pada daun.
-                    Menghindari kelembaban yang berlebihan dengan memastikan adanya drainase yang baik.
-                    Menghilangkan dan memusnahkan daun yang terinfeksi segera setelah gejalanya terlihat.
-                    Menerapkan rotasi tanaman dan menghindari penanaman berdekatan dengan tanaman keluarga kubis-kubisan lainnya.
-                    Menggunakan fungisida yang direkomendasikan oleh ahli pertanian jika diperlukan.'
+                Dengan cara pemusnahan seluruh bagian tanaman terserang  sampai  ke  akarnya  (Eradikasi  tanaman).  Pengendalian kimiawi  dapat  dilakukan  dengan aplikasi  fungisida berbahan  aktif benomil,  metil tiofanat, karbendazim, atau difenokonazole dengan dosis/konsentrasi sesuai dengan petunjuk pada kemasan.'
             ],
         ];
         return $artikel;
