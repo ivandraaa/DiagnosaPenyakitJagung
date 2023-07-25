@@ -175,9 +175,13 @@
                         berbagai petani dan lokasi. Dengan layanan yang andal dan aman, Jaga Jagung Giriroto menjadi
                         alat yang sangat berguna bagi petani jagung untuk meningkatkan hasil panen dan efisiensi
                         pertanian secara keseluruhan.</p>
+
+                    <div class="pic"><img
+                            src="https://wonderfullgiriroto.com/wp-content/uploads/2022/03/IMG_20211129_103145.jpg"
+                            class="img-fluid" alt=""></div>
                 </div>
 
-                <div class="row">
+                {{-- <div class="row">
 
                     <div class="col-lg-6">
                         <div class="member d-flex align-items-start">
@@ -232,7 +236,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> --}}
 
             </div>
         </section><!-- End Doctors Section -->
@@ -250,46 +254,45 @@
                     <ul>
                         <li data-aos="fade-up">
                             <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse"
-                                data-bs-target="#faq-list-1">Apa itu DR.brokoli? <i
+                                data-bs-target="#faq-list-1">Apa itu Jaga Jagung Giriroto? <i
                                     class="bx bx-chevron-down icon-show"></i><i
                                     class="bx bx-chevron-down icon-close"></i></a>
                             <div id="faq-list-1" class="collapse" data-bs-parent=".faq-list">
                                 <p>
-                                    DR.brokoli adalah aplikasi sistem pakar yang dirancang untuk membantu petani
-                                    dalam mendiagnosis dan merawat kesehatan tanaman brokoli.
+                                    Jaga Jagung Giriroto adalah aplikasi sistem pakar yang dirancang untuk membantu
+                                    petani di Desa Giriroto dalam mendiagnosis dan merawat kesehatan tanaman jagung.
                                 </p>
                             </div>
                         </li>
 
                         <li data-aos="fade-up" data-aos-delay="100">
                             <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
-                                data-bs-target="#faq-list-2" class="collapsed">Bagaimana DR.brokoli dapat membantu
-                                dalam mendiagnosis kesehatan tanaman brokoli? <i
+                                data-bs-target="#faq-list-2" class="collapsed">Bagaimana Jaga Jagung Giriroto dapat
+                                membantu dalam mendiagnosis kesehatan tanaman jagung? <i
                                     class="bx bx-chevron-down icon-show"></i><i
                                     class="bx bx-chevron-up icon-close"></i></a>
                             <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
                                 <p>
-                                    DR.brokoli menggunakan kecerdasan buatan dan sistem pakar untuk menganalisis data
-                                    yang Anda berikan tentang tanaman brokoli Anda. Berdasarkan informasi tersebut,
-                                    aplikasi akan memberikan diagnosis dan rekomendasi untuk merawat tanaman brokoli
-                                    secara efektif.
+                                    Jaga Jagung Giriroto menggunakan kecerdasan buatan dan sistem pakar untuk
+                                    menganalisis data yang Anda berikan tentang tanaman jagung Anda. Berdasarkan
+                                    informasi tersebut, aplikasi akan memberikan diagnosis dan rekomendasi untuk merawat
+                                    tanaman jagung secara efektif.
                                 </p>
                             </div>
                         </li>
 
                         <li data-aos="fade-up" data-aos-delay="200">
                             <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
-                                data-bs-target="#faq-list-3" class="collapsed">Apakah aplikasi DR.brokoli dapat
-                                memberikan informasi lebih lanjut mengenai perawatan tanaman brokoli? <i
+                                data-bs-target="#faq-list-3" class="collapsed">Apakah aplikasi Jaga Jagung Giriroto
+                                dapat memberikan informasi lebih lanjut mengenai perawatan tanaman jagung? <i
                                     class="bx bx-chevron-down icon-show"></i><i
                                     class="bx bx-chevron-up icon-close"></i></a>
                             <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
                                 <p>
-                                    Ya, selain memberikan diagnosis dan rekomendasi, aplikasi DR.brokoli juga
-                                    menyediakan informasi
-                                    dan sumber daya berguna mengenai perawatan tanaman brokoli. Anda dapat menemukan
-                                    panduan, tips,
-                                    dan praktik terbaik untuk merawat tanaman brokoli dengan baik.
+                                    Ya, selain memberikan diagnosis dan rekomendasi, aplikasi Jaga Jagung Giriroto juga
+                                    menyediakan informasi dan sumber daya berguna mengenai perawatan tanaman jagung.
+                                    Anda dapat menemukan panduan, tips, dan praktik terbaik untuk merawat tanaman jagung
+                                    dengan baik.
                                 </p>
                             </div>
                         </li>
@@ -297,15 +300,15 @@
                         <li data-aos="fade-up" data-aos-delay="300">
                             <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                 data-bs-target="#faq-list-4" class="collapsed">Bagaimana jika saya memiliki pertanyaan
-                                atau masalah yang tidak tercakup di DR.brokoli? <i
+                                atau masalah yang tidak tercakup di Jaga Jagung Giriroto? <i
                                     class="bx bx-chevron-down icon-show"></i><i
                                     class="bx bx-chevron-up icon-close"></i></a>
                             <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
                                 <p>
-                                    Jika Anda memiliki pertanyaan atau masalah yang tidak tercakup di DR.brokoli,
-                                    silakan hubungi tim kami
-                                    melalui halaman "Kontak Kami" di website kami. Kami akan dengan senang hati membantu
-                                    Anda dengan pertanyaan atau masalah yang Anda hadapi.
+                                    Jika Anda memiliki pertanyaan atau masalah yang tidak tercakup di Jaga Jagung
+                                    Giriroto, silakan hubungi tim kami melalui halaman "Kontak Kami" di website kami.
+                                    Kami akan dengan senang hati membantu Anda dengan pertanyaan atau masalah yang Anda
+                                    hadapi.
                                 </p>
                             </div>
                         </li>
@@ -325,28 +328,27 @@
                 <div class="row">
 
                     <div class="col-lg-3 col-md-6 footer-contact">
-                        <h3>Dr.brokoli</h3>
+                        <h3>Jaga Jagung Giriroto</h3>
                         <p>
-                            Jl. Ir. Soepomo No 24 <br>
-                            Surakarta, SOC 535022<br>
-                            Indonesia <br><br>
-                            <strong>Phone:</strong> +1 5589 55488 55<br>
-                            <strong>Email:</strong> drbrokoli@gmail.com<br>
+                            Desa Giriroto<br>
+                            Kecamatan Ngemplak, Kabupaten Boyolali<br>
+                            Jawa Tengah, Indonesia <br><br>
+                            <strong>Phone:</strong> NO TELPON<br>
+                            <strong>Email:</strong> EMAIL<br>
                         </p>
                     </div>
 
                     <div class="col-lg-2 col-md-6 footer-links">
-                        <h4>Useful Links</h4>
+                        <h4>Menu</h4>
                         <ul>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Beranda</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Dashboard</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Tentang Kami</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">FAQ</a></li>
                         </ul>
                     </div>
 
-                    <div class="col-lg-3 col-md-6 footer-links">
+                    {{-- <div class="col-lg-3 col-md-6 footer-links">
                         <h4>Our Services</h4>
                         <ul>
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
@@ -355,7 +357,7 @@
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
                         </ul>
-                    </div>
+                    </div> --}}
 
                     <div class="col-lg-4 col-md-6 footer-newsletter">
                         <h4>Join Our Newsletter</h4>
@@ -373,14 +375,14 @@
 
             <div class="me-md-auto text-center text-md-start">
                 <div class="copyright">
-                    &copy; Copyright <strong><span>Dr.brokoli</span></strong>. All Rights Reserved
+                    &copy; Copyright <strong><span>Jaga Jagung Giriroto</span></strong>. All Rights Reserved
                 </div>
                 <div class="credits">
                     <!-- All the links in the footer should remain intact. -->
                     <!-- You can delete the links only if you purchased the pro version. -->
                     <!-- Licensing information: https://bootstrapmade.com/license/ -->
                     <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/ -->
-                    Designed by <a href="https://bootstrapmade.com/">Kelompok 12</a>
+                    Designed by <a href="https://bootstrapmade.com/">Kelompok 44 dan 45 KKN UNS 2023</a>
                 </div>
             </div>
             <div class="social-links text-center text-md-right pt-3 pt-md-0">
