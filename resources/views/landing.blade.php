@@ -175,6 +175,7 @@
                         berbagai petani dan lokasi. Dengan layanan yang andal dan aman, Jaga Jagung Giriroto menjadi
                         alat yang sangat berguna bagi petani jagung untuk meningkatkan hasil panen dan efisiensi
                         pertanian secara keseluruhan.</p>
+                    <br>
 
                     <div class="pic"><img
                             src="https://wonderfullgiriroto.com/wp-content/uploads/2022/03/IMG_20211129_103145.jpg"
@@ -363,7 +364,7 @@
                             class="img-fluid" alt="" style="width: 120px;"></div> --}}
 
                     <div class="col-lg-4 col-md-6 footer-newsletter">
-                        <h4>Join Our Newsletter</h4>
+                        <h4>Bergabung Dengan Komunitas Kami</h4>
                         <p>Berlangganan untuk dapatkan berita terkini</p>
                         <form action="" method="post">
                             <input type="email" name="email"><input type="submit" value="Subscribe">
