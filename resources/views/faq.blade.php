@@ -70,7 +70,7 @@
 
             <nav id="navbar" class="navbar order-last order-lg-0">
                 <ul>
-                    <li><a class="nav-link scrollto active" href="#">Beranda</a></li>
+                    <li><a class="nav-link scrollto active" href="#l">Beranda</a></li>
                     {{-- <li><a class="nav-link scrollto" href="/dashboard">Dashboard</a></li> --}}
                     <li><a class="nav-link scrollto" href="#about">Tentang Kami</a></li>
                     <li><a class="nav-link scrollto" href="#faq">FAQ</a></li>
