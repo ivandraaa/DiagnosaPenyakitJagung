@@ -49,12 +49,12 @@
                 <i class="bi bi-envelope"></i> <a href="mailto:contact@example.com">EMAIL</a>
                 <i class="bi bi-phone"></i>NO TELEPON
             </div>
-            <div class="d-none d-lg-flex social-links align-items-center">
+            {{-- <div class="d-none d-lg-flex social-links align-items-center">
                 <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
                 <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
                 <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
                 <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
-            </div>
+            </div> --}}
         </div>
     </div>
 
@@ -71,22 +71,22 @@
             <nav id="navbar" class="navbar order-last order-lg-0">
                 <ul>
                     <li><a class="nav-link scrollto active" href="#">Beranda</a></li>
-                    <li><a class="nav-link scrollto" href="/dashboard">Dashboard</a></li>
+                    {{-- <li><a class="nav-link scrollto" href="/dashboard">Dashboard</a></li> --}}
                     <li><a class="nav-link scrollto" href="#about">Tentang Kami</a></li>
                     <li><a class="nav-link scrollto" href="#faq">FAQ</a></li>
-                    <li class="dropdown"><a href="#"><span>Menu</span> <i class="bi bi-chevron-down"></i></a>
+                    {{-- <li class="dropdown"><a href="#"><span>Menu</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li><a href="/form-faq">Diagnosa</a></li>
                             <li><a href="/gejala">Gejala</a></li>
                             <li><a href="/penyakit">Penyakit</a></li>
                         </ul>
-                    </li>
-                    <li><a class="nav-link scrollto" href="#about">Kontak</a></li>
+                    </li> --}}
+                    <li><a class="nav-link scrollto" href="#">Kontak</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->
 
-            <a href="/login" class="appointment-btn scrollto"><span class="d-none d-md-inline">Log</span> In</a>
+            {{-- <a href="/login" class="appointment-btn scrollto"><span class="d-none d-md-inline">Log</span> In</a> --}}
 
         </div>
     </header><!-- End Header -->
@@ -116,9 +116,9 @@
                                 bahwa dengan mengetahui kondisi tanaman Anda, Anda dapat mengambil langkah-langkah yang
                                 tepat untuk merawatnya dengan baik.
                             </p>
-                            <div class="text-center">
+                            {{-- <div class="text-center">
                                 <a href="#" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                     <div class="col-lg-8 d-flex align-items-stretch">
@@ -306,7 +306,7 @@
                             <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
                                 <p>
                                     Jika Anda memiliki pertanyaan atau masalah yang tidak tercakup di Jaga Jagung
-                                    Giriroto, silakan hubungi tim kami melalui halaman "Kontak Kami" di website kami.
+                                    Giriroto, silakan hubungi tim kami melalui halaman "Kontak" di website kami.
                                     Kami akan dengan senang hati membantu Anda dengan pertanyaan atau masalah yang Anda
                                     hadapi.
                                 </p>
@@ -342,9 +342,9 @@
                         <h4>Menu</h4>
                         <ul>
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Beranda</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Dashboard</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Tentang Kami</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">FAQ</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#about">Tentang Kami</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#faq">FAQ</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Kontak</a></li>
                         </ul>
                     </div>
 
@@ -358,6 +358,9 @@
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
                         </ul>
                     </div> --}}
+                    {{-- <div class="col-lg-3 col-md-6"><img
+                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Seal_of_Boyolali_Regency.svg/1200px-Seal_of_Boyolali_Regency.svg.png"
+                            class="img-fluid" alt="" style="width: 120px;"></div> --}}
 
                     <div class="col-lg-4 col-md-6 footer-newsletter">
                         <h4>Join Our Newsletter</h4>
@@ -385,13 +388,13 @@
                     Designed by <a href="https://bootstrapmade.com/">Kelompok 44 dan 45 KKN UNS 2023</a>
                 </div>
             </div>
-            <div class="social-links text-center text-md-right pt-3 pt-md-0">
+            {{-- <div class="social-links text-center text-md-right pt-3 pt-md-0">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
                 <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
                 <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
                 <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
                 <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-            </div>
+            </div> --}}
         </div>
     </footer><!-- End Footer -->
 
