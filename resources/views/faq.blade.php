@@ -47,7 +47,7 @@
         <div class="container d-flex justify-content-between">
             <div class="contact-info d-flex align-items-center">
                 <i class="bi bi-envelope"></i> <a href="mailto:contact@example.com">jagajagunggiriroto@gmail.com</a>
-                <i class="bi bi-phone"></i> +62 558 55488 1255
+                <i class="bi bi-phone"></i>+62558554881255
             </div>
             {{-- <div class="d-none d-lg-flex social-links align-items-center">
                 <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
@@ -63,8 +63,7 @@
         <div class="container d-flex align-items-center">
 
             {{-- <h1 class="logo me-auto"><a href="index.html">Dr brokoli</a></h1> --}}
-            <img class="logo me-auto" src="landing/img/logo-dr-brokoli.png" alt="Logo"
-                style="width: 215px; height: 55px;">
+            <img class="logo me-auto" src="landing/img/logo.png" alt="Logo" style="width: 150px; height: 60px;">
             <!-- Uncomment below if you prefer to use an image logo -->
             <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
