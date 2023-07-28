@@ -63,7 +63,7 @@
         <div class="container d-flex align-items-center">
 
             {{-- <h1 class="logo me-auto"><a href="index.html">Dr brokoli</a></h1> --}}
-            <img class="logo me-auto" src="landing/img/logo.png" alt="Logo" style="width: 150px; height: 10%;">
+            <img class="logo me-auto" src="landing/img/logo.png" alt="Logo" style="width: 150px; height: 9%;">
             <!-- Uncomment below if you prefer to use an image logo -->
             <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 

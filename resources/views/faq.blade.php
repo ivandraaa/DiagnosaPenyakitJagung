@@ -97,7 +97,8 @@
             <div class="container">
 
                 <div class="section-title" style="margin-top: 80px">
-                    <h2>Frequently Asked Questions</h2>
+                    <br>
+                    <h2>Frequently Asked Questionsss</h2>
                     <p>Berikut adalah Pertanyaan yang Sering Diajukan oleh User</p>
                 </div>
 
@@ -165,12 +166,10 @@
                         </li>
                         <div class="container d-flex align-items-end flex-column">
                             <a href="/form" class="appointment-btn scrollto d-flex align-items-center"
-                                style="height: 50px"><span class="d-none d-md-inline">Lanjut</a>
+                                style="height: 50px"><span class="d-md-inline">Lanjut</a>
                         </div>
                     </ul>
                 </div>
-
-
             </div>
         </section><!-- End Frequently Asked Questions Section -->
 
