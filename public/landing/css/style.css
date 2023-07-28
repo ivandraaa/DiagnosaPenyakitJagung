@@ -1,6 +1,6 @@
 /*
  * Table of contents:
- * 
+ *
  * 1.Primary
  * 2.Navigation
  * 3.Hero
@@ -12,10 +12,10 @@
  * 9.Contact page
  *
  */
- 
- 
- 
- 
+
+
+
+
 /* #Primary
 ================================================== */
 
@@ -348,7 +348,7 @@ body.royal_preloader {
 	top:0;
 	left:0;
 }
-#menu-wrap .container .columns  { 
+#menu-wrap .container .columns  {
 	margin-top: 0;
 	margin-bottom: 0;
 }
@@ -427,7 +427,7 @@ body.royal_preloader {
 	height:104px;
 	z-index:10000;
 	top:32px;
-	background:url('../img/logo-dr-brokoli.png') no-repeat center center;
+	background:url('../img/logo.png') no-repeat center center;
 	background-size: 210px 54px;
 	-webkit-transition : all 0.3s ease-out;
 	-moz-transition : all 0.3s ease-out;
@@ -740,7 +740,7 @@ Mobile style's
 		text-transform:uppercase;
 		width: calc(100% - 20px);
 		display: block;
-	}	
+	}
     .menu-container {
         width: 100%;
     }
@@ -753,7 +753,7 @@ Mobile style's
 
 	.menu > ul > li > ul {
 		padding: 20px 0;
-	}	
+	}
     .menu > ul {
 		width: 100%;
 		float:none;
@@ -783,7 +783,7 @@ Mobile style's
 	.cbp-af-header.cbp-af-header-shrink .menu > ul > li > ul.normal-sub > li a {
 		border: 0;
 		padding: 10px 0;
-	}	
+	}
     .menu > ul > li > ul > li {
         float: none;
         width: 100%;
@@ -951,7 +951,7 @@ Mobile style's
 	transform: translateY(-50%);
 }
 .hero-center-wrap h1{
-	position: relative; 
+	position: relative;
 	margin-left: 25%;
 	font-weight: 900;
 	letter-spacing: 3px;
@@ -968,7 +968,7 @@ Mobile style's
 	color: transparent;
 }
 .hero-top-text{
-	position: absolute; 
+	position: absolute;
 	font-family: 'Poppins', sans-serif;
 	font-style: italic;
 	font-weight: 400;
@@ -991,7 +991,7 @@ Mobile style's
 	z-index:20;
 }
 .hero-bottom-wrap h1{
-	position: relative; 
+	position: relative;
 	font-weight: 900;
 	letter-spacing: 3px;
 	font-size: 11vw;
@@ -1017,7 +1017,7 @@ Mobile style's
 	height: 100%;
 }
 #hero-sync1 .item {
-	position: relative; 
+	position: relative;
     width: 100%;
     display: block;
 }
@@ -1046,7 +1046,7 @@ Mobile style's
 	transition : all 0.2s ease-out;
 }
 #hero-sync2 .item p{
-	position: relative; 
+	position: relative;
 	padding-bottom: 10px;
 	color: #999;
 	letter-spacing: 1px;
@@ -1063,7 +1063,7 @@ Mobile style's
 	transition : all 0.2s ease-out;
 }
 #hero-sync2 .item p span{
-	position: relative; 
+	position: relative;
 	-webkit-transition : all 0.2s ease-out;
 	-moz-transition : all 0.2s ease-out;
 	-o-transition :all 0.2s ease-out;
@@ -1182,7 +1182,7 @@ Mobile style's
     -moz-transition: all 200ms linear;
     -o-transition: all 200ms linear;
     -ms-transition: all 200ms linear;
-    transition: all 200ms linear; 
+    transition: all 200ms linear;
 }
 .scroll-to-next:hover {
 	color: #000;
@@ -1216,7 +1216,7 @@ Mobile style's
     -moz-transition: all 200ms linear;
     -o-transition: all 200ms linear;
     -ms-transition: all 200ms linear;
-    transition: all 200ms linear; 
+    transition: all 200ms linear;
 }
 .scroll-to-next-mid:hover {
 	color: #555;
@@ -1352,7 +1352,7 @@ Mobile style's
 	height:50px;
 }
 
-/* Video Hover Image */	
+/* Video Hover Image */
 
 .video-section {
 	position: relative;
@@ -1367,14 +1367,14 @@ Mobile style's
 	padding-top: 0;
 	height: 0;
 	overflow: hidden;
-}	
+}
 .video-wrapper iframe {
 	position: absolute;
 	top: 0;
 	left: 0;
 	width: 100%;
 	height: 100%;
-}	
+}
 figure.youtube a img, figure.vimeo a img {
 	position: absolute;
 	top: 0;
@@ -1382,7 +1382,7 @@ figure.youtube a img, figure.vimeo a img {
 	width: auto;
 	height: 100%;
 	max-width:none;
-}	
+}
 figure.vimeo a:after, figure.youtube a:after {
 	content:"";
 	width:60px;
@@ -1399,11 +1399,11 @@ figure.vimeo a:after, figure.youtube a:after {
     -moz-transition: all 500ms linear;
     -o-transition: all 500ms linear;
     -ms-transition: all 700ms linear;
-    transition: all 500ms linear; 
+    transition: all 500ms linear;
 }
 figure.vimeo:hover a:after, figure.youtube:hover a:after {
 	box-shadow: 0px 0px 0px 1000px rgba(255,255,255,0.1);
-}	
+}
 figure.vimeo a:before, figure.youtube a:before {
 	content:"";
 	width: 0;
@@ -1421,21 +1421,21 @@ figure.vimeo a:before, figure.youtube a:before {
     -moz-transition: all 300ms linear;
     -o-transition: all 300ms linear;
     -ms-transition: all 300ms linear;
-    transition: all 300ms linear; 
+    transition: all 300ms linear;
 }
 figure.vimeo:hover a:before, figure.youtube:hover a:before {
 	border-left: 10px solid #fff;
-}	
+}
 figure.vimeo a:hover img, figure.youtube a:hover img {
 	-webkit-transition: all 0.4s;
 	transition: all 0.4s;
-}	
+}
 figure.vimeo a img, figure.youtube a img {
     -webkit-transition: all 300ms linear;
     -moz-transition: all 300ms linear;
     -o-transition: all 300ms linear;
     -ms-transition: all 300ms linear;
-    transition: all 300ms linear; 
+    transition: all 300ms linear;
 	a -webkit-transform: scale(1);
 	transform: scale(1);
 }
@@ -1484,7 +1484,7 @@ figure.vimeo a img, figure.youtube a img {
 .hero-center-text-wrap h1{
 	position: relative;
 	font-family: 'Poppins', sans-serif;
-	font-weight:600; 
+	font-weight:600;
 	letter-spacing: 1px;
 	font-size: 22px;
 	line-height: 1;
@@ -1507,7 +1507,7 @@ figure.vimeo a img, figure.youtube a img {
 .hero-center-text-wrap h2{
 	position: relative;
 	font-family: 'Poppins', sans-serif;
-	font-weight:600; 
+	font-weight:600;
 	letter-spacing: 1px;
 	font-size: 20px;
 	line-height: 1;
@@ -1542,7 +1542,7 @@ figure.vimeo a img, figure.youtube a img {
     -moz-transition: all 200ms linear;
     -o-transition: all 200ms linear;
     -ms-transition: all 200ms linear;
-    transition: all 200ms linear; 
+    transition: all 200ms linear;
 }
 .hero-center-text-wrap a:hover {
 	color: #000;
@@ -1565,7 +1565,7 @@ figure.vimeo a img, figure.youtube a img {
 .page-center-text-wrap h1{
 	position: relative;
 	font-family: 'Poppins', sans-serif;
-	font-weight:600; 
+	font-weight:600;
 	letter-spacing: 1px;
 	font-size: 18px;
 	line-height: 1;
@@ -2011,7 +2011,7 @@ figure.vimeo a img, figure.youtube a img {
 	margin:0 auto;
 	width:calc(100% - 40px);
 	max-width:1140px;
-} 
+}
 #projects-grid:after {
   content: '';
   display: block;
@@ -2043,7 +2043,7 @@ figure.vimeo a img, figure.youtube a img {
     -ms-transform: scale(0.9);
     -o-transform: scale(0.9);
     transform: scale(0.9);
-} 
+}
 .portfolio-box-1 img{
 	width:100%;
 	display:block;
@@ -2079,25 +2079,25 @@ figure.vimeo a img, figure.youtube a img {
 .portfolio-box-1:hover .mask{
 	opacity:.8;
 }
-.portfolio-box-1:hover .mask.stack__deco-1{	
+.portfolio-box-1:hover .mask.stack__deco-1{
     -ms-transform: rotate(4deg);
     -webkit-transform: rotate(4deg);
     transform: rotate(4deg);
 	opacity: 0.1;
 }
-.portfolio-box-1:hover .mask.stack__deco-2{	
+.portfolio-box-1:hover .mask.stack__deco-2{
     -ms-transform: rotate(-3deg);
     -webkit-transform: rotate(-3deg);
     transform: rotate(-3deg);
 	opacity: 0.2;
 }
-.portfolio-box-1:hover .mask.stack__deco-3{	
+.portfolio-box-1:hover .mask.stack__deco-3{
     -ms-transform: rotate(2deg);
     -webkit-transform: rotate(2deg);
     transform: rotate(2deg);
 	opacity: 0.3;
 }
-.portfolio-box-1:hover .mask.stack__deco-4{	
+.portfolio-box-1:hover .mask.stack__deco-4{
     -ms-transform: rotate(-1deg);
     -webkit-transform: rotate(-1deg);
     transform: rotate(-1deg);
@@ -2133,8 +2133,8 @@ figure.vimeo a img, figure.youtube a img {
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
-	font-size: 14px; 
-	line-height: 16px; 
+	font-size: 14px;
+	line-height: 16px;
 	text-align: center;
 	outline: none;
 	color: #212121;
@@ -2151,8 +2151,8 @@ figure.vimeo a img, figure.youtube a img {
 #filter li a span {
 	vertical-align: super;
 	margin-left:2px;
-	font-size: 11px; 
-	line-height: 20px; 
+	font-size: 11px;
+	line-height: 20px;
 	display:inline-block;
 	color: #212121;
     -webkit-transition: all 300ms linear;
@@ -2203,7 +2203,7 @@ figure.vimeo a img, figure.youtube a img {
 	right: -20px;
 	vertical-align: super;
 	margin-left: -22px;
-	font-size: 14px;  
+	font-size: 14px;
 	font-weight: 500;
 	font-family: 'Poppins', sans-serif;
 	font-style: italic;
@@ -2336,7 +2336,7 @@ figure.vimeo a img, figure.youtube a img {
 	opacity:1;
 	top:110px;
 }
-	
+
 /* #About page
 ================================================== */
 
@@ -2367,7 +2367,7 @@ figure.vimeo a img, figure.youtube a img {
 	padding-top: 40px;
 	color: #f8f8f8;
 	font-size: 18px;
-	font-weight: 400;	
+	font-weight: 400;
 	font-style: italic;
 }
 .quote h6{
@@ -2428,7 +2428,7 @@ figure.vimeo a img, figure.youtube a img {
 	margin-bottom:15px;
 }
 
-.social-team{ 
+.social-team{
 	position:relative;
 	display:block;
 	margin: 0;
@@ -2439,10 +2439,10 @@ figure.vimeo a img, figure.youtube a img {
 	padding: 0;
 }
 .list-social-team li {
-    padding: 0; 
+    padding: 0;
 	margin: 0 auto;
     list-style: none;
-	text-align:center; 
+	text-align:center;
 	width:13px;
 	height:13px;
     display: inline-block;
@@ -2453,7 +2453,7 @@ figure.vimeo a img, figure.youtube a img {
     -moz-transition: all 300ms linear;
     -o-transition: all 300ms linear;
     -ms-transition: all 300ms linear;
-    transition: all 300ms linear; 
+    transition: all 300ms linear;
 }
 .list-social-team li.icon-team a {
 	font-family: 'FontAwesome';
@@ -2468,7 +2468,7 @@ figure.vimeo a img, figure.youtube a img {
     -moz-transition: all 300ms linear;
     -o-transition: all 300ms linear;
     -ms-transition: all 300ms linear;
-    transition: all 300ms linear; 
+    transition: all 300ms linear;
 }
 .list-social-team li.icon-team a:hover {
 	text-decoration: none;
@@ -2489,10 +2489,10 @@ figure.vimeo a img, figure.youtube a img {
 	margin: 0 auto;
 	text-align: center;
 }
- 
+
 /* #Blog
 ================================================== */
- 
+
 
 .blog-box{
 	position:relative;
@@ -2565,7 +2565,7 @@ a.no-lines:hover{
 }
 
 
-	
+
 /* #Google map
 ================================================== */
 
@@ -2648,7 +2648,7 @@ a.no-lines:hover{
 #cd-zoom-out {
 	background-position: 50% -32px;
 	z-index:3;
-} 
+}
 
 .contact-det{
 	position: relative;
@@ -2666,7 +2666,7 @@ a.no-lines:hover{
     -o-transition: all 300ms linear;
     -ms-transition: all 300ms linear;
     transition: all 300ms linear;
-} 
+}
 .contact-det span{
 	position: relative;
 	display: block;
@@ -2676,7 +2676,7 @@ a.no-lines:hover{
 	font-weight:300;
 	font-family: 'Poppins', sans-serif;
 	padding-top: 20px;
-} 
+}
 .form-control{
 	font-size: 15px;
 	padding: 12px 20px;
@@ -2729,7 +2729,7 @@ a.no-lines:hover{
 	width: 100%;
 	background-color: rgba(255, 255, 255, 0.1);
 }
-.footer .rights p{ 
+.footer .rights p{
 	font-weight: 300;
 	letter-spacing: 1px;
 	font-size: 12px;
@@ -2780,13 +2780,13 @@ a.no-lines:hover{
 /* #Media
 ================================================== */
 
-@media (max-width: 1500px) { 
+@media (max-width: 1500px) {
 }
 
 @media (max-width: 1300px) {
 }
 
-@media (max-width: 1199px) { 
+@media (max-width: 1199px) {
 	#hero-sync2 {
 		display: none !important;
 	}
@@ -2903,7 +2903,7 @@ a.no-lines:hover{
 		-o-transform: translateY(-50%);
 		transform: translateY(-50%);
 	}
-	.hero-center-wrap h1{ 
+	.hero-center-wrap h1{
 		margin-left: 0;
 		text-align: center;
 		width: 100%;
