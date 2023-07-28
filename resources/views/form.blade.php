@@ -2242,10 +2242,8 @@
                                 </div>
                             </form>
                         </div>
-                        <p>&nbsp;</p>
-                        <hr />
-
-
+                        {{-- <p>&nbsp;</p>
+                        <hr /> --}}
                     </div>
                 </div>
             </article>
