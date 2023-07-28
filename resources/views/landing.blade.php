@@ -46,8 +46,8 @@
     <div id="topbar" class="d-flex align-items-center fixed-top">
         <div class="container d-flex justify-content-between">
             <div class="contact-info d-flex align-items-center">
-                <i class="bi bi-envelope"></i> <a href="mailto:contact@example.com">EMAIL</a>
-                <i class="bi bi-phone"></i>NO TELEPON
+                <i class="bi bi-envelope"></i> <a href="mailto:contact@example.com">jagajagunggiriroto@gmail.com</a>
+                <i class="bi bi-phone"></i>+62 558 55488 1255
             </div>
             {{-- <div class="d-none d-lg-flex social-links align-items-center">
                 <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
@@ -333,8 +333,8 @@
                             Desa Giriroto<br>
                             Kecamatan Ngemplak, Kabupaten Boyolali<br>
                             Jawa Tengah, Indonesia <br><br>
-                            <strong>Phone:</strong> NO TELPON<br>
-                            <strong>Email:</strong> EMAIL<br>
+                            <strong>Phone:</strong> +62 558 55488 1255<br>
+                            <strong>Email:</strong> jagagajagunggiriroto@gmail.com<br>
                         </p>
                     </div>
 
