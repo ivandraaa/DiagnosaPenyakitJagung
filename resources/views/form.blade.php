@@ -836,8 +836,7 @@
     </svg>
     <div id="page" class="site"> <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
         <header id="header" class="clearfix">
-            <div class="wrap normal"> <a id="logo" href="/"><img
-                        src="penyakit-assets/wp-content/themes/mha_s2s/assets/images/mha-logo.png"
+            <div class="wrap normal"> <a id="logo" href="/"><img src="landing/img/logo.png"
                         alt="MHA Screening" /></a>
                 <div id="utility-menu" class="utility-menu relative">
                     <div id="search-header">
