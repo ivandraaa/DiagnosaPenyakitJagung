@@ -80,7 +80,7 @@
                             <li><a href="/penyakit">Penyakit</a></li>
                         </ul>
                     </li> --}}
-                    <li><a class="nav-link scrollto" href="#">Kontak</a></li>
+                    <li><a class="nav-link scrollto" href="#footer">Kontak</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->
@@ -344,7 +344,7 @@
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Beranda</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="#about">Tentang Kami</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="#faq">FAQ</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Kontak</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#footer">Kontak</a></li>
                         </ul>
                     </div>
 
@@ -362,12 +362,22 @@
                             src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Seal_of_Boyolali_Regency.svg/1200px-Seal_of_Boyolali_Regency.svg.png"
                             class="img-fluid" alt="" style="width: 120px;"></div> --}}
 
-                    <div class="col-lg-4 col-md-6 footer-newsletter">
+                    {{-- <div class="col-lg-4 col-md-6 footer-newsletter">
                         <h4>Bergabung Dengan Komunitas Kami</h4>
                         <p>Berlangganan untuk dapatkan berita terkini</p>
                         <form action="" method="post">
                             <input type="email" name="email"><input type="submit" value="Subscribe">
                         </form>
+                    </div> --}}
+
+                    <div class="text-center col-lg-3 col-md-6 footer-logo">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Seal_of_Boyolali_Regency.svg/1200px-Seal_of_Boyolali_Regency.svg.png"
+                            alt="" style="width: 40%">
+                    </div>
+
+                    <div class="text-center col-lg-4 col-md-6 footer-logo">
+                        <img src="https://pelajarinfo.id/wp-content/uploads/2022/10/Universitas-Sebelas-Maret-Logo.png"
+                            alt="" style="width: 80%">
                     </div>
 
                 </div>
