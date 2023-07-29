@@ -324,7 +324,7 @@
     <footer id="footer">
 
         <div class="footer-top">
-            <div class="container">
+            <div class="container-sm">
                 <div class="row">
 
                     <div class="col-lg-3 col-md-6 footer-contact">
@@ -338,7 +338,7 @@
                         </p>
                     </div>
 
-                    <div class="col-lg-2 col-md-6 footer-links">
+                    <div class="text-center col-lg-2 col-md-6 footer-links">
                         <h4>Menu</h4>
                         <ul>
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Beranda</a></li>

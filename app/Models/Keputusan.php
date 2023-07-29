@@ -48,8 +48,8 @@ class Keputusan extends Model
             [
                 'kode_penyakit' => 'P001',
                 'kode_gejala' => 'G004',
-                'mb' => 0.4,
-                'md' => 0.6
+                'mb' => 0.6,
+                'md' => 0.4
             ],
             [
                 'kode_penyakit' => 'P001',
@@ -60,8 +60,8 @@ class Keputusan extends Model
             [
                 'kode_penyakit' => 'P002',
                 'kode_gejala' => 'G006',
-                'mb' => 0.4,
-                'md' => 0.6
+                'mb' => 0.6,
+                'md' => 0.4
             ],
             [
                 'kode_penyakit' => 'P002',
@@ -72,8 +72,8 @@ class Keputusan extends Model
             [
                 'kode_penyakit' => 'P002',
                 'kode_gejala' => 'G008',
-                'mb' => 0.8,
-                'md' => 0.2
+                'mb' => 0.6,
+                'md' => 0.4
             ],
             [
                 'kode_penyakit' => 'P002',
@@ -114,8 +114,8 @@ class Keputusan extends Model
             [
                 'kode_penyakit' => 'P003',
                 'kode_gejala' => 'G015',
-                'mb' => 0.4,
-                'md' => 0.6
+                'mb' => 0.6,
+                'md' => 0.4
             ],
             [
                 'kode_penyakit' => 'P004',
@@ -162,8 +162,8 @@ class Keputusan extends Model
             [
                 'kode_penyakit' => 'P005',
                 'kode_gejala' => 'G023',
-                'mb' => 0.4,
-                'md' => 0.6
+                'mb' => 0.6,
+                'md' => 0.4
             ],
             [
                 'kode_penyakit' => 'P005',
