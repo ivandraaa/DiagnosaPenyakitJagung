@@ -222,13 +222,11 @@
                     </div> --}}
 
                     <div class="text-center col-lg-3 col-md-6 footer-logo">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Seal_of_Boyolali_Regency.svg/1200px-Seal_of_Boyolali_Regency.svg.png"
-                            alt="" style="width: 40%">
+                        <img src="landing/img/logo-boyolali.png" alt="" style="width: 40%">
                     </div>
 
                     <div class="text-center col-lg-4 col-md-6 footer-logo">
-                        <img src="https://pelajarinfo.id/wp-content/uploads/2022/10/Universitas-Sebelas-Maret-Logo.png"
-                            alt="" style="width: 80%">
+                        <img src="landing/img/logo-uns.png" alt="" style="width: 80%">
                     </div>
 
                 </div>
