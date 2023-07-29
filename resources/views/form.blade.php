@@ -74,9 +74,8 @@
         href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700,italic300,italic400,italic600,italic700%7CNoto+Sans:400,700,italic400,italic700&amp;display=swap" />
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="shortcut icon" href="https://screening.mhanational.org/favicon.ico">
-    <link rel="icon" href="penyakit-assets/favicon.png">
-    <link rel="apple-touch-icon" href="penyakit-assets/apple-touch-icon.png">
+    <link href="assets/img/favicon.png" rel="icon">
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
     <meta name="msapplication-TileColor" content="#FFFFFF">
     <meta name="msapplication-TileImage" content="penyakit-assets/favicon-144x144.png">
     <meta name="theme-color" content="#365888">
