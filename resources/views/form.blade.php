@@ -925,8 +925,8 @@
             <article id="post-22" class="post-22 screen type-screen status-publish hentry condition-depression">
                 <div class="wrap normal">
                     {{-- <!-- <div class="bubble round-tl mobile-wide mint"><div class="inner"><h1>Take a Mental Health Test</h1><div class="text"><p>Online screening is one of the quickest and easiest ways to determine whether you are experiencing symptoms of a mental health condition.</p><p><strong>Mental health conditions, such as depression or anxiety, are real, common and treatable. And recovery is possible.</strong></p></div></div></div> --> --}}
-                    <div class="page-heading plain">
-                        <h1 class="entry-title">Diagnosis Penyakit Tanaman Jagung</h1>
+                    <div class="page-heading">
+                        <h1 class="entry-title text-success">Diagnosis Penyakit Tanaman Jagung</h1>
                     </div>
                 </div>
                 <div class="wrap medium">
@@ -1069,7 +1069,7 @@
                                         </div>
                                         <div class='gform_page_footer top_label'> <input type='button'
                                                 id='gform_next_button_1_17' class='gform_next_button button'
-                                                value='Submit'
+                                                value='Kirim'
                                                 onclick='jQuery("#gform_target_page_number_1").val("2");  jQuery("#gform_1").trigger("submit",[true]); '
                                                 onkeypress='if( event.keyCode == 13 ){ jQuery("#gform_target_page_number_1").val("2");  jQuery("#gform_1").trigger("submit",[true]); } ' />
                                         </div>

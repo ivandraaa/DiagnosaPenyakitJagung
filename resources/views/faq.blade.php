@@ -96,9 +96,8 @@
         <section id="faq" class="faq section-bg">
             <div class="container">
 
-                <div class="section-title" style="margin-top: 80px">
-                    <br>
-                    <h2>Frequently Asked Questionsss</h2>
+                <div class="section-title" style="margin-top: 120px">
+                    <h2>Frequently Asked Questions</h2>
                     <p>Berikut adalah Pertanyaan yang Sering Diajukan oleh User</p>
                 </div>
 
