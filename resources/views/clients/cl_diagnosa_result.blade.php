@@ -110,7 +110,7 @@
                                 {{ $diagnosa_dipilih['kode_penyakit']->kode_penyakit }} |
                                 {{ $diagnosa_dipilih['kode_penyakit']->penyakit }}
                             </h5>
-                            <p class="card-text">Jadi dapat disimpulkan bahwa tumbuhan brokoli Anda kemungkinan memiliki
+                            <p class="card-text">Jadi dapat disimpulkan bahwa tumbuhan jagung Anda kemungkinan memiliki
                                 penyakit tersebut dengan tingkat kepastian yaitu <span
                                     class="fw-semibold fs-4">{{ round($hasil['value'] * 100, 2) }}</span> %</p>
                             {{-- <a href="#" class="btn btn-primary">Go somewhere</a> --}}
