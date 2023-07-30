@@ -47,7 +47,7 @@
         <div class="container d-flex justify-content-between">
             <div class="contact-info d-flex align-items-center">
                 <i class="bi bi-envelope"></i> <a href="mailto:contact@example.com">jagajagunggiriroto@gmail.com</a>
-                <i class="bi bi-phone"></i>+62558554881255
+                <i class="bi bi-phone"></i>085728803715
             </div>
             {{-- <div class="d-none d-lg-flex social-links align-items-center">
                 <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
@@ -333,7 +333,7 @@
                             Desa Giriroto<br>
                             Kecamatan Ngemplak, Kabupaten Boyolali<br>
                             Jawa Tengah, Indonesia <br><br>
-                            <strong>Phone:</strong> +62 558 55488 1255<br>
+                            <strong>Phone:</strong> 085728803715<br>
                             <strong>Email:</strong> jagagajagunggiriroto@gmail.com<br>
                         </p>
                     </div>
